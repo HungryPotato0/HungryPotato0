@@ -36,6 +36,6 @@
 ## 💡 Seminars Attended and Certifications:
 <details>
   <summary> Bits to Brilliance: AI & Robotics (2024) </summary>
-   <img src="file:///C:/Users/Tine%20De%20Leon/Downloads/Justine%20Joy%20H.%20De%20Leon.pdf" width="700">
+   <img src="" width="700">
   
 </details>
