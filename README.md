@@ -1,8 +1,11 @@
 <div align="center">
 <img width="800" height="250" alt="download (1)" src="https://github.com/user-attachments/assets/18879fd4-eaa6-4280-b5e1-860fb1e5a4f6" />
+  <h1> ## Hi there! Welcome to my Github profile! </h1>
 </div>
 
 ---
-## Hi there! Welcome to my Github profile!
 
-*I am Justine Joy H. De Leon, currently study as at* **University of Perpetual Help System DAlTA.**  
+
+** 
+*I am Justine Joy H. De Leon, studying at* **University of Perpetual Help System DALTA.**  
+
