@@ -33,7 +33,9 @@
 
 ---
 
-## 💡 Seminars Attended and Certifications:
+## 💡 Seminars, Competitions, and Certifications:
+
+*Seminars Attended:*
 <details>
   <summary> Bits to Brilliance: AI & Robotics (2024) </summary>
    <img src="Justine Joy H. De Leon.jpg" width="500">
@@ -46,6 +48,9 @@
   <summary> Programming Refresher Seminar (2026) </summary>
    <img src="Programming Refresher seminar E-cert -48 (2).jpg" width="500">
 </details>
+
+*Competitions:*
+* SIKAPTala 2025: CS & IT Quiz Bee - SHS Division
 
 ---
 
