@@ -36,6 +36,5 @@
 ## 💡 Seminars Attended and Certifications:
 <details>
   <summary> Bits to Brilliance: AI & Robotics (2024) </summary>
-   <img src="Justine Joy H. De Leon.jpg" width="700">
-  
+   <img src="Justine Joy H. De Leon.jpg" width="500">
 </details>
