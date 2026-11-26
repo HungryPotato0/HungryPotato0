@@ -30,3 +30,12 @@
 **Compilers I have used**
 * ![Apache NetBeans IDE](https://img.shields.io/badge/Apache%20NetBeans%20IDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 * ![Eclipse IDE](https://img.shields.io/badge/Eclipse_IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
+
+---
+
+##💡 Seminars Attended and Certifications:
+<details>
+  <summary> Bits to Brilliance: AI & Robotics (2024) </summary>
+    ![Certificate]("C:\Users\Tine De Leon\Downloads\Justine Joy H. De Leon.pdf")
+  
+</details>
