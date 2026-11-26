@@ -3,3 +3,6 @@
 </div>
 
 ---
+##Hi there! Welcome to my Github profile!
+
+*I am Justine Joy H. De Leon, currently study as at **University of Perpetual Help System DAlTA.** * 
