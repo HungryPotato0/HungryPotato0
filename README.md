@@ -15,10 +15,18 @@
 * Computer Hardware
 * Quality Assurance
 * Troubleshooting
-* System Diagnostics
-* Technology Innovation
 
 🌱 Currently Learning:
 * Hardware Testing
 * Software Testing
 * Programming Fundamentals
+
+--- 
+## 💾 Languages and Used Tools 
+
+**Currently Mastering:**
+* Java
+
+**Compilers I had used**
+* ![Apache NetBeans IDE](https://img.shields.io/badge/Apache%20NetBeans%20IDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+* ![eclipse IDE]([https://img.shields.io/badge/Apache%20NetBeans%20IDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white](https://iconscout.com/free-icon/free-eclipse-logo-icon_3029968))
