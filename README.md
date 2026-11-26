@@ -12,13 +12,13 @@
 🔧 Aspiring Hardware Tester
 
 💻 Interests:
-- Computer Hardware
-- Quality Assurance
-- Troubleshooting
-- System Diagnostics
-- Technology Innovation
+* Computer Hardware
+* Quality Assurance
+* Troubleshooting
+* System Diagnostics
+* Technology Innovation
 
 🌱 Currently Learning:
-- Hardware Testing
-- Software Testing
-- Programming Fundamentals
+* Hardware Testing
+* Software Testing
+* Programming Fundamentals
