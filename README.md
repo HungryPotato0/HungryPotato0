@@ -5,7 +5,6 @@
 
 ---
 
-
-** 
+## 🙋🏻‍♀️ About me
 *I am Justine Joy H. De Leon, studying at* **University of Perpetual Help System DALTA.**  
 
