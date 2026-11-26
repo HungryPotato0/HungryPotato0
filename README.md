@@ -39,6 +39,10 @@
    <img src="Justine Joy H. De Leon.jpg" width="500">
 </details>
 <details>
-  <summary> Arduino Applications (2024) </summary>
-   <img src="Justine Joy H. De Leon.jpg" width="500">
+  <summary> Arduino Applications (2026) </summary>
+   <img src="Programming Refresher seminar E-cert -48 (2).jpg" width="500">
+</details>
+<details>
+  <summary> Programming Refresher Seminar (2026) </summary>
+   <img src="Programming Refresher Seminar" width="500">
 </details>
