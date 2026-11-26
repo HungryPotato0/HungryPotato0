@@ -49,6 +49,7 @@
    <img src="Programming Refresher seminar E-cert -48 (2).jpg" width="500">
 </details>
 
+
 *Competitions:*
 * SIKAPTala 2025: CS & IT Quiz Bee - SHS Division
 
